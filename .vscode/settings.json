@@ -1,3 +1,11 @@
 {
-    "python.analysis.autoImportCompletions": true
+    "python.analysis.autoImportCompletions": true,
+    "cSpell.words": [
+        "canlib",
+        "Kvaser",
+        "PCAN",
+        "socketcan",
+        "USBBUS",
+        "vcan"
+    ]
 }

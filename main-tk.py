@@ -1,5 +1,5 @@
 import tkinter as tk
-import can
+import can              # Used to Access CAN Hardware
 import ctypes
 
 class CANApp:

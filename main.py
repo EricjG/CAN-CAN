@@ -14,7 +14,7 @@ class CANApp:
 
         # Create the "File" dropdown menu
         file_menu = tk.Menu(menubar, tearoff=0)
-        menubar.add_cascade(label="File", menu=file_menu)
+        menubar.add_cascade(label="Project", menu=file_menu)
 
         # Add options under "File" for new, open, and close
         file_menu.add_command(label="New", command=self.new_file)
